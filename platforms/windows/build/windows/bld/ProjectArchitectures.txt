@@ -1,0 +1,1 @@
+C:\Users\Mauricio Nunes dos R\Documents\github\myAwesomeApp\platforms\windows\CordovaApp.Windows10.jsproj;neutral
